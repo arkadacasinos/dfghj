@@ -54,6 +54,7 @@ export default function RootLayout({
         <meta name="referrer" content="strict-origin-when-cross-origin" />
         <meta property="og:locale" content="ru_RU" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="yandex-verification" content="806998b0df1abed2" />
         <meta name="twitter:title" content="Kush Casino официальный сайт — играть онлайн в Куш Казино" />
         <meta
           name="twitter:description"
