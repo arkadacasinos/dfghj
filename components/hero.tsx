@@ -41,14 +41,14 @@ export default function Hero() {
 
         <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
           <a
-            href="#register"
+            href="https://casinokush1.vercel.app"
             className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-primary px-7 py-3.5 text-base font-bold text-primary-foreground transition hover:brightness-110 sm:w-auto"
           >
             <LogIn className="h-5 w-5" aria-hidden="true" />
             Войти и играть
           </a>
           <a
-            href="#mirror"
+            href="https://casinokush1.vercel.app"
             className="inline-flex w-full items-center justify-center gap-2 rounded-lg border border-border bg-card px-7 py-3.5 text-base font-semibold transition hover:border-primary/50 sm:w-auto"
           >
             <BadgeCheck className="h-5 w-5 text-primary" aria-hidden="true" />
